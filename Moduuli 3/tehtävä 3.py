@@ -1,5 +1,5 @@
 sukupuoli = input("Anna biologinen sukupuolesi (nainen/mies): ")
-hemoglobiini = float(input("Anna hemoglobiiniarvo (g/l): "))
+hemoglobiini = float(input("Anna hemoglobiiniarvo: "))
 
 if sukupuoli == "nainen":
     if hemoglobiini < 117:
@@ -17,5 +17,3 @@ elif sukupuoli == "mies":
     else:
         print("Hemoglobiiniarvo on korkea.")
 
-else:
-    print("Virheellinen sukupuoli.")

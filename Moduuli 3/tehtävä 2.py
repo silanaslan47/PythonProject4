@@ -1,7 +1,7 @@
 hyttiluokka = input('Anna hyttiluokka (LUX, A, B, C):')
 
 if hyttiluokka == 'LUX':
-    print('Parvekkeellinenen hytti yläkannella.')
+    print('Parvekkeellinen hytti yläkannella.')
 elif hyttiluokka == 'A':
     print('Ikkunallinen hytti autokannen yläpuolella.')
 elif hyttiluokka == 'B':
@@ -10,4 +10,4 @@ elif hyttiluokka == 'C':
     print('Ikkunaton hytti autokannen alapuolella.')
 else:
     print('Virheellinen hyttiluokka.')
-    
+

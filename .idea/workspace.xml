@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59b45f76-6451-42ef-b8a6-678ceb65510e" name="Changes" comment="Moduuli 1 tehtävä">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59b45f76-6451-42ef-b8a6-678ceb65510e" name="Changes" comment="Moduuli 3 tehtävä" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1788701598367</updated>
       <workItem from="1788717294459" duration="2000" />
-      <workItem from="1789041988828" duration="2131000" />
+      <workItem from="1789041988828" duration="2871000" />
     </task>
     <task id="LOCAL−00001" summary="Moduuli 1 tehtävä">
       <option name="closed" value="true" />
@@ -114,7 +112,21 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1789044246659</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Moduuli 3 tehtävä">
+      <option name="closed" value="true" />
+      <created>1789044460282</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1789044460283</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Moduuli 3 tehtävä">
+      <option name="closed" value="true" />
+      <created>1789044527937</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1789044527937</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +134,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Moduuli 1 tehtävä" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moduuli 1 tehtävä" />
+    <MESSAGE value="Moduuli 3 tehtävä" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moduuli 3 tehtävä" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject4$tehtävä_2.coverage" NAME="tehtävä 2 Coverage Results" MODIFIED="1789044353936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 3" />
