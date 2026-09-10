@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59b45f76-6451-42ef-b8a6-678ceb65510e" name="Changes" comment="Moduuli 1 tehtävä">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +22,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;silanaslan47&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/silanaslan47/PythonProject4.git&quot;,
+    &quot;accountId&quot;: &quot;b4cd9fa5-8e0a-400d-9ff8-dc14de11275d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IxM7PyPzNngc3l6HJvXpj6nGIN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,11 +47,19 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.hello.executor": "Run",
+    "Python.tehtävä 1.executor": "Run",
+    "Python.tehtävä 2.executor": "Run",
+    "Python.tehtävä 3.executor": "Run",
+    "Python.tehtävä 4.executor": "Run",
+    "Python.tehtävä 5.executor": "Run",
+    "Python.tehtävä 6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -60,6 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788701598367</updated>
+      <workItem from="1788717294459" duration="2000" />
+      <workItem from="1789041988828" duration="2131000" />
     </task>
     <task id="LOCAL−00001" summary="Moduuli 1 tehtävä">
       <option name="closed" value="true" />
@@ -68,7 +86,35 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1788701796605</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Moduuli 1 tehtävä">
+      <option name="closed" value="true" />
+      <created>1788702032577</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1788702032577</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Moduuli 1 tehtävä">
+      <option name="closed" value="true" />
+      <created>1788702088012</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1788702088012</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Moduuli 1 tehtävä">
+      <option name="closed" value="true" />
+      <created>1788704733562</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1788704733562</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Moduuli 1 tehtävä">
+      <option name="closed" value="true" />
+      <created>1789044246659</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1789044246659</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +123,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Moduuli 1 tehtävä" />
     <option name="LAST_COMMIT_MESSAGE" value="Moduuli 1 tehtävä" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject4$tehtävä_2.coverage" NAME="tehtävä 2 Coverage Results" MODIFIED="1789044353936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 3" />
+    <SUITE FILE_PATH="coverage/PythonProject4$tehtävä_4.coverage" NAME="tehtävä 4 Coverage Results" MODIFIED="1789044382239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 3" />
+    <SUITE FILE_PATH="coverage/PythonProject4$tehtävä_1.coverage" NAME="tehtävä 1 Coverage Results" MODIFIED="1789044298341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 3" />
+    <SUITE FILE_PATH="coverage/PythonProject4$tehtävä_3.coverage" NAME="tehtävä 3 Coverage Results" MODIFIED="1789044373359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 3" />
   </component>
 </project>
